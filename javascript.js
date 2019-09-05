@@ -8,7 +8,7 @@ function getMobileOperatingSystem()
     }
 
     if (/android/i.test(userAgent)) {
-       window.location.href="https://play.google.com/store/apps/details?id=com.whatsapp";
+       window.location.href="https://play.google.com/store/apps/details?id=com.HeraclesStudios.BounceRope";
     }
 
     // iOS detection from: http://stackoverflow.com/a/9039885/177710
